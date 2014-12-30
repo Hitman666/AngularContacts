@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Hitman666/AngularContacts/issues"
   },
-  "homepage": "https://github.com/Hitman666/AngularContacts"
+  "homepage": "https://github.com/Hitman666/AngularContacts",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "bourne": "^0.4.0"
+  }
 }
