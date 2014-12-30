@@ -1,0 +1,23 @@
+{
+  "name": "AngularContacts",
+  "version": "1.0.0",
+  "description": "An example application built with Angular and Node.js as a backend to manage your contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hitman666/AngularContacts.git"
+  },
+  "keywords": [
+    "angular",
+    "contacts"
+  ],
+  "author": "Nikola Brežnjak <nikola.breznjak@gmail.com> (http://www.nikola-breznjak.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hitman666/AngularContacts/issues"
+  },
+  "homepage": "https://github.com/Hitman666/AngularContacts"
+}
